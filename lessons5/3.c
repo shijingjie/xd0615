@@ -1,4 +1,3 @@
-#include<string.h>
 int i,j,n=0,x,y=0;
 byte income[100]={0};
 void setup()
